@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.template .image{
+    height: 350px;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    border: 0.1em solid brown;
+}
+.app{
+    text-align: center;
+}
+.template{
+    width: 33.333%;
+    display: inline-block;
+    border: 3px solid transparent;    
+    padding: 1px;
+}
+
+.meme{    
+    text-align: center;
+}
+
+.memeImg{
+    width: auto;
+    height: 25em;
+    border: 0.1em solid brown;
+}
+
+.captionBox{
+    padding: 3px;
+    margin: 5px;
+}
+h1{
+    position: relative;
+    left:15em;
+    align-text: center;
+}
+.buttonContainer{
+    padding: 3px;
+    margin: 5px;
+}
+
+.button{
+    padding: 3px;
+    margin: 5px;
+}
